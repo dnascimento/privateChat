@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">PrivateChat</string>
     <string name="action_settings">Settings</string>
     <string name="send_photo">Send Photo</string>
     <string name="send_video">Send Video</string>
     <string name="action_attachment">Attach</string>
     <string name="action_key">Set Key</string>
+    <string name="attach_gallery">Attach Gallery</string>
+    <string name="attach_video">Take Video</string>
+    <string name="attach_photo">Take Photo</string>
 
 </resources>

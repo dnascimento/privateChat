@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">    
+   <!-- Gallery -->
+   <item 
+       android:id="@+id/attach_gallery"
+       android:icon="@drawable/ic_action_picture"
+       android:title="@string/attach_gallery"
+       android:showAsAction="always"
+    	android:onClick="attach_from_gallery"
+    />
+   
+   <!-- Photo -->
+   <item 
+       android:id="@+id/attach_photo"
+       android:icon="@drawable/ic_action_camera"
+       android:title="@string/attach_photo"
+           android:showAsAction="always"
+    />
+   
+   
+   <!-- Video --> 
+   <item 
+       android:id="@+id/attach_video"
+       android:icon="@drawable/ic_action_video"
+       android:title="@string/attach_video"
+           android:showAsAction="always"
+    />
+   
+   
+   
+</menu>
